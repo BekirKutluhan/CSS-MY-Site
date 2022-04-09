@@ -1,0 +1,159 @@
+/*****************************************TAGS***************************************/
+body {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  line-height: double;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5rem;
+  color: #e6f9ff;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #e6f9ff;
+  font-weight: normal;
+}
+
+a {
+  color: #11999E;
+}
+
+h3 {
+  font-size: 30px;
+  color: #004d66;
+}
+
+p {
+  font-size: 2rem;
+}
+
+/****************************************CLASSES***************************************/
+.profile2 {
+  border-radius: 50%;
+}
+
+.topContainer {
+  background-color: #0080ff;
+  display: block;
+  position: relative;
+  margin: 0;
+}
+
+.middleContainer {
+  border: 5px solid gray;
+}
+
+
+
+.bottomContainer1
+{
+   width: 20%;
+   margin: 0 auto;
+text-align: center;
+}
+
+
+.skills
+{
+  text-align: center;
+}
+.skill-row
+{
+  display: inline-block;
+  margin:auto;
+  text-align: left;
+}
+.bir {
+  text-decoration: underline;
+}
+
+.footer-link {
+  display: inline-block;
+  font-size: 2em;
+  vertical-align: middle;
+  position: relative;
+  bottom: 20px;
+}
+
+.footer-link2 {
+  font-size: 2rem;
+}
+
+.email {
+  margin: 0 auto;
+  display: inline;
+  background-color: aqua;
+
+}
+.copyRights
+{
+  height:150px;
+  text-align: center;
+  padding-top: 4%;
+  background-color:#5D8BF4;
+}
+.codingImg
+{
+  float: left;
+  width: 35%;
+  margin: 0 20px 0 0;
+}
+.contact-me
+{
+  text-align: center;
+}
+.skills2
+{
+  margin-right: 150px;
+   text-align: right;
+}
+.webdesign
+{
+}
+.sendmail
+{
+
+}
+.sendmail:hover
+{
+  
+}
+/**********************************ID**************************************************/
+#p {
+  font-family: 'Cinzel', serif;
+  display: block;
+  margin: 0 auto 0 auto;
+}
+#mylink
+{
+  display: inline;
+  position: absolute;
+  margin:10px 10px;
+}
+#heading {
+  background-color: #5D8BF4;
+}
+
+#cloud {
+  display: block;
+  position: relative;
+  margin-left: 30%;
+}
+
+#cloud2 {
+  display: block;
+  position: relative;
+  margin-left: 70%;
+}
+
+#in {
+   float: right;
+
+   height:50px;
+    width:50px;
+}
