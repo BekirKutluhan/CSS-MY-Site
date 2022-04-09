@@ -38,13 +38,14 @@ p {
 }
 
 .topContainer {
-  background-color: aqua;
+  background-color: #0080ff;
   display: block;
   position: relative;
   margin: 0;
 }
 
 .middleContainer {
+  background-color: aqua;
   border: 5px solid gray;
 }
 
